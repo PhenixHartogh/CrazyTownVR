@@ -1,37 +1,37 @@
 <h1 align="center">Crazy Town VR</h1>
 <p align="center">
     <a href="LICENSE">
-        <img src="https://img.shields.io/github/license/996Jack/CrazyTownVR?label=License">
+        <img src="https://img.shields.io/github/license/PhenixHartogh/CrazyTownVR?label=License">
     </a>
-    <a href="https://github.com/996Jack/CrazyTownVR/stargazers">
-        <img src="https://img.shields.io/github/stars/996Jack/CrazyTownVR?label=Stars">
+    <a href="https://github.com/PhenixHartogh/CrazyTownVR/stargazers">
+        <img src="https://img.shields.io/github/stars/PhenixHartogh/CrazyTownVR?label=Stars">
     </a>
-    <a href="https://github.com/996Jack/CrazyTownVR/releases/latest">
-        <img src="https://img.shields.io/github/v/release/996Jack/CrazyTownVR?label=Latest%20Version">
+    <a href="https://github.com/PhenixHartogh/CrazyTownVR/releases/latest">
+        <img src="https://img.shields.io/github/v/release/PhenixHartogh/CrazyTownVR?label=Latest%20Version">
     </a>
-    <a href="https://github.com/996Jack/CrazyTownVR/commit/main">
-        <img src="https://img.shields.io/github/last-commit/996Jack/CrazyTownVR?label=Last%20Update">
+    <a href="https://github.com/PhenixHartogh/CrazyTownVR/commit/main">
+        <img src="https://img.shields.io/github/last-commit/PhenixHartogh/CrazyTownVR?label=Last%20Update">
     </a>
-    <img src="https://img.shields.io/github/languages/code-size/996Jack/CrazyTownVR?label=Size">
-    <a href="https://github.com/996Jack/CrazyTownVR/issues">
-        <img src="https://img.shields.io/github/issues/996Jack/CrazyTownVR?label=Issues">
+    <img src="https://img.shields.io/github/languages/code-size/PhenixHartogh/CrazyTownVR?label=Size">
+    <a href="https://github.com/PhenixHartogh/CrazyTownVR/issues">
+        <img src="https://img.shields.io/github/issues/PhenixHartogh/CrazyTownVR?label=Issues">
     </a>
 </p>
 The official GitHub repository for Crazy Town VR.
 
 ### ***THIS GAME IS NO LONGER MAINTAINED***
-### Code
-All code can be viewed in Unreal Engine 4. It may be compatible with Unreal Engine 5, but I am unsure.
+### Compatibility
+This game was made in Unreal Engine 4. This game is made for VR, however, gets an error whenever trying to compile.
 
 ### Bugs
-Bugs can be reported under the issues tab. We may get around to fixing it, but maybe not
+Bugs can be reported under the issues tab, however we will not fix it unless it is a security issue.
 
 ### Last Updated
 The game code was last updated on September 8th, 2021. Very old game code, just being released now.
 
 ### Team
-@996Jack - Phenix W.
-@GatheredSpiritsStudios - Damo B from Gathered Spirits Studios
+@PhenixHartogh - <a href="https://phenixhartogh.com.au">Phenix Hartogh</a>
+@GatheredSpiritsStudios - Damo B from <a href="https://gatheredspirits.com.au">Gathered Spirits Studios</a>
 
 ### Contact
-You can contact us by emailing Phenix W. at phenixw@outlook.com.au
+You can contact the development team by emailing CrazyTownVR[at]phenixhartogh[dot]com[dot]au
